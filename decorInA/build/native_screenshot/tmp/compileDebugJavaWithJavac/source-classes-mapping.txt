@@ -1,0 +1,6 @@
+jpg/ivan/native_screenshot/PixelListener.java
+ jpg.ivan.native_screenshot.PixelListener
+jpg/ivan/native_screenshot/NativeScreenshotPlugin.java
+ jpg.ivan.native_screenshot.NativeScreenshotPlugin
+jpg/ivan/native_screenshot/BuildConfig.java
+ jpg.ivan.native_screenshot.BuildConfig
